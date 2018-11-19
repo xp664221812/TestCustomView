@@ -15,7 +15,8 @@
         <xp.com.test.MaterialEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="label" />
+            android:hint="label"
+            app:userFloatingLabel="false" />
 
     </FrameLayout>
 </RelativeLayout>
